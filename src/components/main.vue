@@ -10,7 +10,7 @@
 <template>
     <div>
         <Button icon="pi pi-heart"  :label="name" @click="handleClick()"></Button>
-        
+        <p>Hello world</p>
     </div>
 </template>
 <style scoped>
